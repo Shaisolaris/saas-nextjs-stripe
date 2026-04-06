@@ -1,5 +1,7 @@
 # saas-nextjs-stripe
 
+![CI](https://github.com/Shaisolaris/saas-nextjs-stripe/actions/workflows/ci.yml/badge.svg)
+
 Next.js 14 SaaS with deep Stripe integration: subscription management, checkout sessions, customer portal, webhook handling (5 events), 3-tier pricing, Prisma for subscription persistence, invoice retrieval, and subscription lifecycle management (upgrade, cancel, resume).
 
 ## Stack
